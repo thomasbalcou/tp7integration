@@ -1,5 +1,7 @@
 # Tp7
 
+La page web affiche les differents tableaux kanbans et leurs sections et permet aussi d'en rajouter.
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.2.4.
 
 ## Development server
